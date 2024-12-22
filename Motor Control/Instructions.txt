@@ -1,0 +1,2 @@
+Before you do anything or run any files, make sure you have all the necessary libraries installed on your Raspberry Pi 4B.
+This includes pygame, python-can, libraries here cuz I forgot
