@@ -1,3 +1,7 @@
 This is the final iteration of the Mk1 TacocaT leg design. It's a four-bar linkage for simplicity
 because all angles inputted into the motor are directly outputted into the lower leg. This makes 
 coding the leg trajectory easier because of the 1:1 ratio on the angles.
+
+All parts were printed on the Ender 5 Pro 3d printer with a usable build plate size of 220×220×300mm.
+Some of the parts had to be split to fit on the Ender 5 Pro. They would be joined together using
+a woodworking technique called 'Sashimono'.
