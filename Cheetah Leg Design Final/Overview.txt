@@ -1,1 +1,1 @@
-
+This is the final iteration of the Mk1 TacocaT leg design. It's a four-bar linkage for simplicity because all angles inputted into the motor are directly outputted into the lower leg. This makes coding the leg trajectory easier because of the 1:1 ratio on the angles.
